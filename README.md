@@ -146,14 +146,3 @@ npm run storybook
 * Multi-language interface support.
 * Export conversation history in PDF/Markdown.
 
----
-
-## 8. License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 9. Contact
-
-For queries, reach out at: \[[your-email@example.com](mailto:your-email@example.com)]
